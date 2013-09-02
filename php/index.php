@@ -28,7 +28,7 @@
 
 		<div class="nav">
 			<ul id="menu">
-		  		<li><a href="index.html" class="link">Home</a></li>
+		  		<li><a href="index.php" class="link">Home</a></li>
 		  		<li><a href="schedule.html" class="link">Schedule</a></li>
 		  		<li><a href="Bio.html" class="link">Bio</a></li>
 		  		<li><a href="Contact.html" class="link">Contact</a></li>
